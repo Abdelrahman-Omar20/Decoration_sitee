@@ -27,7 +27,7 @@ function App() {
     }, [i18n.language]);
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/Decoration_sitee">
             <Routes>
                 {/* Public Routes */}
                 <Route path="/" element={<Layout />}>
