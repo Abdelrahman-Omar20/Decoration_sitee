@@ -1,0 +1,71 @@
+{
+    "header": {
+        "home": "Home",
+        "gallery": "Gallery",
+        "services": "Services",
+        "blog": "Blog",
+        "contact": "Contact",
+        "getQuote": "Get Quote"
+    },
+    "hero": {
+        "badge": "Premium Event Styling",
+        "title1": "Transform Your",
+        "titleGradient": "Special Moments",
+        "title2": "Into Unforgettable Experiences",
+        "subtitle": "Exquisite decoration and styling services for weddings, parties, corporate events, and home transformations.",
+        "viewWork": "View Our Work",
+        "watchShowreel": "Watch Showreel",
+        "stats": {
+            "events": "Events Styled",
+            "experience": "Years Experience",
+            "satisfaction": "Client Satisfaction"
+        },
+        "scroll": "Scroll to explore"
+    },
+    "sections": {
+        "featured": {
+            "title": "Featured Projects",
+            "subtitle": "Discover our latest decoration masterpieces and event transformations",
+            "viewAll": "View All Projects"
+        },
+        "services": {
+            "title": "Our Services",
+            "subtitle": "Comprehensive styling solutions for every occasion",
+            "learnMore": "Learn More"
+        },
+        "instagram": {
+            "title": "Instagram Reels",
+            "subtitle": "Follow our latest work on social media",
+            "follow": "Follow @elegancedecor"
+        },
+        "cta": {
+            "title": "Ready to Create Something Beautiful?",
+            "subtitle": "Let's discuss your vision and bring it to life",
+            "button": "Get a Free Quote"
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "Let's discuss your vision and bring it to life",
+        "getInTouch": "Get in Touch",
+        "form": {
+            "name": "Full Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "service": "Service Interested In",
+            "message": "Your Message",
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "success": "Message Sent!",
+            "successDesc": "Thank you for reaching out. We'll get back to you within 24 hours.",
+            "sendAnother": "Send Another Message"
+        }
+    },
+    "footer": {
+        "description": "Premium event styling and decoration services creating unforgettable moments for every occasion.",
+        "quickLinks": "Quick Links",
+        "services": "Services",
+        "contact": "Contact Info",
+        "rights": "All rights reserved."
+    }
+}
