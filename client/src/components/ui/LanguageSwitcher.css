@@ -1,0 +1,30 @@
+.language-switcher {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: var(--text-primary);
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.language-switcher:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--primary);
+}
+
+/* Mobile adjustments if needed */
+@media (max-width: 768px) {
+    .language-switcher {
+        width: 100%;
+        justify-content: center;
+        margin-top: 1rem;
+        border-color: rgba(0, 0, 0, 0.1);
+        color: var(--text-dark);
+    }
+}

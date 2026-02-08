@@ -1,0 +1,193 @@
+{
+  "users": [
+    {
+      "id": "8cafb4c0-6386-4bed-a832-0f17ecf58c86",
+      "email": "admin@elegancedecor.com",
+      "passwordHash": "$2a$10$kUzVOL2s0UY94UmtsD58veUfUbM3rN/DYOc7nNquEPxE./aOZqKCG",
+      "role": "admin",
+      "createdAt": "2026-02-02T21:51:59.338Z"
+    }
+  ],
+  "videos": [
+    {
+      "id": "aa03e236-9f18-457f-a883-9a710db570e7",
+      "title": "Luxurious Royal Wedding Setup",
+      "titleAr": "تجهيزات زفاف ملكي فاخر",
+      "description": "A breathtaking wedding stage designed with white roses, gold accents, and crystal chandeliers.",
+      "descriptionAr": "منصة زفاف مذهلة مصممة بالورد الأبيض واللمسات الذهبية وثريات الكريستال.",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "/assets/images/wedding.png",
+      "categoryId": "ff1a3d53-cc1d-452f-9a0f-278817b96b5a",
+      "isInstagramReel": false,
+      "instagramId": null,
+      "isFeatured": true,
+      "duration": null,
+      "createdAt": "2026-02-02T21:51:59.384Z",
+      "updatedAt": "2026-02-02T21:51:59.384Z"
+    },
+    {
+      "id": "ff7f53ce-8b2b-451d-bf4f-b427eff4a0f7",
+      "title": "21st Birthday Gala",
+      "titleAr": "حفل عيد الميلاد الحادي والعشرين",
+      "description": "Vibrant blue and silver balloon arch with custom neon signage for a memorable birthday bash.",
+      "descriptionAr": "قوس بالونات بلون أزرق وفضي نابض بالحياة مع لافتات نيون مخصصة لحفلة عيد ميلاد لا تُنسى.",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "/assets/images/party.png",
+      "categoryId": "c865664a-a4bd-4746-b62e-8a42f1a50b1a",
+      "isInstagramReel": false,
+      "instagramId": null,
+      "isFeatured": true,
+      "duration": null,
+      "createdAt": "2026-02-02T21:51:59.387Z",
+      "updatedAt": "2026-02-02T21:51:59.387Z"
+    },
+    {
+      "id": "604fb4fc-99c2-4ed7-aa94-3bd168a12c81",
+      "title": "Tech Summit Corporate Stage",
+      "titleAr": "منصة قمة التكنولوجيا للمؤسسات",
+      "description": "Modern geometric stage design with professional lighting for a global technology conference.",
+      "descriptionAr": "تصميم منصة هندسي حديث مع إضاءة احترافية لمؤتمر تكنولوجيا عالمي.",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "/assets/images/corporate.png",
+      "categoryId": null,
+      "isInstagramReel": false,
+      "instagramId": null,
+      "isFeatured": true,
+      "duration": null,
+      "createdAt": "2026-02-02T21:51:59.389Z",
+      "updatedAt": "2026-02-02T21:51:59.389Z"
+    },
+    {
+      "id": "f5de9e0b-e280-4b22-a3ab-c9bbe32687d7",
+      "title": "Festive Home Makeover",
+      "titleAr": "تجديد منزلي احتفالي",
+      "description": "Cozy and elegant home interior redesign with warm lighting and floral centerpieces.",
+      "descriptionAr": "إعادة تصميم داخلية منزلية مريحة وأنيقة مع إضاءة دافئة وتنسيقات زهور.",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "/assets/images/home.png",
+      "categoryId": null,
+      "isInstagramReel": false,
+      "instagramId": null,
+      "isFeatured": false,
+      "duration": null,
+      "createdAt": "2026-02-02T21:51:59.391Z",
+      "updatedAt": "2026-02-02T21:51:59.391Z"
+    },
+    {
+      "id": "8abc312f-18ee-4769-a1d6-cbee1e3cf5cb",
+      "title": "Luxurious Royal Wedding Setup",
+      "titleAr": "تجهيزات زفاف ملكي فاخر",
+      "description": "A breathtaking wedding stage designed with white roses, gold accents, and crystal chandeliers.",
+      "descriptionAr": "منصة زفاف مذهلة مصممة بالورد الأبيض واللمسات الذهبية وثريات الكريستال.",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "/assets/images/wedding.png",
+      "categoryId": "ff1a3d53-cc1d-452f-9a0f-278817b96b5a",
+      "isInstagramReel": false,
+      "instagramId": null,
+      "isFeatured": true,
+      "duration": null,
+      "createdAt": "2026-02-02T21:51:59.394Z",
+      "updatedAt": "2026-02-02T21:51:59.394Z"
+    },
+    {
+      "id": "f842acdf-8487-496e-b9e8-ab1cf1d63dc4",
+      "title": "21st Birthday Gala",
+      "titleAr": "حفل عيد الميلاد الحادي والعشرين",
+      "description": "Vibrant blue and silver balloon arch with custom neon signage for a memorable birthday bash.",
+      "descriptionAr": "قوس بالونات بلون أزرق وفضي نابض بالحياة مع لافتات نيون مخصصة لحفلة عيد ميلاد لا تُنسى.",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "/assets/images/party.png",
+      "categoryId": "c865664a-a4bd-4746-b62e-8a42f1a50b1a",
+      "isInstagramReel": false,
+      "instagramId": null,
+      "isFeatured": true,
+      "duration": null,
+      "createdAt": "2026-02-02T21:51:59.396Z",
+      "updatedAt": "2026-02-02T21:51:59.396Z"
+    },
+    {
+      "id": "729c6a9d-67de-49bc-b583-5da97adc0554",
+      "title": "Tech Summit Corporate Stage",
+      "titleAr": "منصة قمة التكنولوجيا للمؤسسات",
+      "description": "Modern geometric stage design with professional lighting for a global technology conference.",
+      "descriptionAr": "تصميم منصة هندسي حديث مع إضاءة احترافية لمؤتمر تكنولوجيا عالمي.",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "/assets/images/corporate.png",
+      "categoryId": "bf1e5bf2-2b26-4b16-afa4-92075ae1bd47",
+      "isInstagramReel": false,
+      "instagramId": null,
+      "isFeatured": true,
+      "duration": null,
+      "createdAt": "2026-02-02T21:51:59.398Z",
+      "updatedAt": "2026-02-02T21:51:59.398Z"
+    },
+    {
+      "id": "801f4f17-1c16-4e05-b43e-e87b3eaaed6b",
+      "title": "Festive Home Makeover",
+      "titleAr": "تجديد منزلي احتفالي",
+      "description": "Cozy and elegant home interior redesign with warm lighting and floral centerpieces.",
+      "descriptionAr": "إعادة تصميم داخلية منزلية مريحة وأنيقة مع إضاءة دافئة وتنسيقات زهور.",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "/assets/images/home.png",
+      "categoryId": "e9c495cf-3335-4630-8934-b629795cb71d",
+      "isInstagramReel": false,
+      "instagramId": null,
+      "isFeatured": false,
+      "duration": null,
+      "createdAt": "2026-02-02T21:51:59.401Z",
+      "updatedAt": "2026-02-02T21:51:59.401Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ff1a3d53-cc1d-452f-9a0f-278817b96b5a",
+      "name": "Wedding",
+      "nameAr": "زفاف",
+      "slug": "wedding",
+      "createdAt": "2026-02-02T21:51:59.343Z"
+    },
+    {
+      "id": "c865664a-a4bd-4746-b62e-8a42f1a50b1a",
+      "name": "Party",
+      "nameAr": "حفلة",
+      "slug": "party",
+      "createdAt": "2026-02-02T21:51:59.345Z"
+    },
+    {
+      "id": "e9c495cf-3335-4630-8934-b629795cb71d",
+      "name": "Home Decor",
+      "nameAr": "ديكور منزلي",
+      "slug": "home-decor",
+      "createdAt": "2026-02-02T21:51:59.347Z"
+    },
+    {
+      "id": "bf1e5bf2-2b26-4b16-afa4-92075ae1bd47",
+      "name": "Corporate",
+      "nameAr": "مؤسسات",
+      "slug": "corporate",
+      "createdAt": "2026-02-02T21:51:59.349Z"
+    },
+    {
+      "id": "d37d4d8c-16f2-4f52-82cf-249fc6cfe417",
+      "name": "Floral",
+      "nameAr": "زهور",
+      "slug": "floral",
+      "createdAt": "2026-02-02T21:51:59.351Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "31064a7a-b9a5-43ec-a26f-21d85534fa42",
+      "title": "Corporate Events",
+      "titleAr": "فعاليات المؤسسات",
+      "description": "Professional event styling for businesses.",
+      "descriptionAr": "تنسيق فعاليات احترافي للشركات.",
+      "icon": "🏢",
+      "sortOrder": 4,
+      "createdAt": "2026-02-02T21:51:59.340Z"
+    }
+  ],
+  "blogPosts": [],
+  "contactMessages": [],
+  "tags": []
+}

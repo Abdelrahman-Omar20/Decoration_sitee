@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "2475c066-3d8d-4076-a7c0-2d49ace529f6",
+      "email": "admin@elegancedecor.com",
+      "passwordHash": "$2a$10$8MO1cdb1Ug0.VIq59bix0eXe.ZsJgujw29xV76VF43/D43HTjMYNy",
+      "role": "admin",
+      "createdAt": "2026-02-02T19:00:25.673Z"
+    }
+  ],
+  "videos": [],
+  "categories": [
+    {
+      "id": "12a27d1f-77fc-4665-a7be-546956272e8c",
+      "name": "Wedding",
+      "slug": "wedding",
+      "createdAt": "2026-02-02T19:00:25.676Z"
+    },
+    {
+      "id": "171805cc-163d-43b7-9162-08e8197f35d8",
+      "name": "Party",
+      "slug": "party",
+      "createdAt": "2026-02-02T19:00:25.677Z"
+    },
+    {
+      "id": "d5f8c12d-1e41-413f-951a-61c26c2df027",
+      "name": "Home Decor",
+      "slug": "home-decor",
+      "createdAt": "2026-02-02T19:00:25.679Z"
+    },
+    {
+      "id": "88d689f0-eb58-4516-a750-507f2c114985",
+      "name": "Corporate",
+      "slug": "corporate",
+      "createdAt": "2026-02-02T19:00:25.680Z"
+    },
+    {
+      "id": "b4f9555e-7d22-406e-b68a-ac94eae05af1",
+      "name": "Floral",
+      "slug": "floral",
+      "createdAt": "2026-02-02T19:00:25.682Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "86536b1a-f82b-4b77-b9c3-7e2d5575b693",
+      "title": "Wedding Decoration",
+      "description": "Create your dream wedding with our bespoke styling services.",
+      "icon": "💒",
+      "sortOrder": 1,
+      "createdAt": "2026-02-02T19:00:25.684Z"
+    },
+    {
+      "id": "bcbc4e1f-33ad-4968-8701-f07b89a921e8",
+      "title": "Party Styling",
+      "description": "Birthdays, anniversaries, and special celebrations.",
+      "icon": "🎉",
+      "sortOrder": 2,
+      "createdAt": "2026-02-02T19:00:25.686Z"
+    },
+    {
+      "id": "e82186d7-0ece-4e1a-96da-9fac3ef28d9e",
+      "title": "Home Decor",
+      "description": "Transform your living spaces with elegant touches.",
+      "icon": "🏠",
+      "sortOrder": 3,
+      "createdAt": "2026-02-02T19:00:25.688Z"
+    },
+    {
+      "id": "e3453644-5d89-4163-a4b6-203fe42f43e7",
+      "title": "Corporate Events",
+      "description": "Professional event styling for businesses.",
+      "icon": "🏢",
+      "sortOrder": 4,
+      "createdAt": "2026-02-02T19:00:25.689Z"
+    },
+    {
+      "id": "b86373d3-7296-467a-bfbd-79c18b989b3f",
+      "title": "Floral Design",
+      "description": "Exquisite floral arrangements for any occasion.",
+      "icon": "🌸",
+      "sortOrder": 5,
+      "createdAt": "2026-02-02T19:00:25.691Z"
+    }
+  ],
+  "blogPosts": [],
+  "contactMessages": [],
+  "tags": []
+}
